@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 <!-- Animated Skills Cloud -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,spring,hibernate,postgres,kafka,docker,git,github,linux&perline=7&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,spring,hibernate,postgres,supabase,kafka,docker,git,github,linux&perline=7&theme=dark" alt="Skills" />
 </p>
 
 ### Languages
@@ -41,6 +41,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
